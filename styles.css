@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+.center{
+    text-align: center;
+    margin-top: 30px;
+}
+table{
+    margin: auto;
+    margin-top: 70px;
+    }
+tr{
+    height: 50px;
+    width: 50px; 
+}
+    
+
+td{
+    width: 80px;
+    text-align: center;
+}
+input[type="button"]{
+    width: 80%;
+    height: 70%;
+}   
+.input{
+    font-weight: bolder;
+    background-color: white;
+}
+input:active[type="button"]{
+    background-color: lightgray;
+}
+
